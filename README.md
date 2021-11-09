@@ -14,7 +14,7 @@ URL de produção: https://me-lembra-bot.herokuapp.com/
 
 - A cada nova alteração na main vamos um deploy no Heroku
 - A cada novo commit/push realizamos os lints:
-  - Da linguagem Go https://golangci-lint.run/
+  - Linguagem Go https://golangci-lint.run/
   - Dockerfile https://hadolint.github.io/hadolint/
   - Scan de segurança das dependências https://github.com/sonatype-nexus-community/nancy
 
